@@ -1,0 +1,7 @@
+C:\Users\jiang'hai'lan\Desktop\大学课程资料\C#\C#第八次作业\OrdersysteM\orderapp\bin\Debug\orderapp.exe.config
+C:\Users\jiang'hai'lan\Desktop\大学课程资料\C#\C#第八次作业\OrdersysteM\orderapp\bin\Debug\orderapp.exe
+C:\Users\jiang'hai'lan\Desktop\大学课程资料\C#\C#第八次作业\OrdersysteM\orderapp\bin\Debug\orderapp.pdb
+C:\Users\jiang'hai'lan\Desktop\大学课程资料\C#\C#第八次作业\OrdersysteM\orderapp\obj\Debug\orderapp.csprojAssemblyReference.cache
+C:\Users\jiang'hai'lan\Desktop\大学课程资料\C#\C#第八次作业\OrdersysteM\orderapp\obj\Debug\orderapp.csproj.CoreCompileInputs.cache
+C:\Users\jiang'hai'lan\Desktop\大学课程资料\C#\C#第八次作业\OrdersysteM\orderapp\obj\Debug\orderapp.exe
+C:\Users\jiang'hai'lan\Desktop\大学课程资料\C#\C#第八次作业\OrdersysteM\orderapp\obj\Debug\orderapp.pdb

@@ -1,0 +1,7 @@
+C:\Users\jiang'hai'lan\Desktop\C#\C#第五次作业\Ordersystem\bin\Debug\Ordersystem.exe.config
+C:\Users\jiang'hai'lan\Desktop\C#\C#第五次作业\Ordersystem\bin\Debug\Ordersystem.exe
+C:\Users\jiang'hai'lan\Desktop\C#\C#第五次作业\Ordersystem\bin\Debug\Ordersystem.pdb
+C:\Users\jiang'hai'lan\Desktop\C#\C#第五次作业\Ordersystem\obj\Debug\Ordersystem.csprojAssemblyReference.cache
+C:\Users\jiang'hai'lan\Desktop\C#\C#第五次作业\Ordersystem\obj\Debug\Ordersystem.csproj.CoreCompileInputs.cache
+C:\Users\jiang'hai'lan\Desktop\C#\C#第五次作业\Ordersystem\obj\Debug\Ordersystem.exe
+C:\Users\jiang'hai'lan\Desktop\C#\C#第五次作业\Ordersystem\obj\Debug\Ordersystem.pdb
